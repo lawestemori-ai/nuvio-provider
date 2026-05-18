@@ -17,7 +17,7 @@
     "options": {
       "useTorrent": {
         "type": "boolean",
-        "description": "Use .torrent files instead of magnet links, this can cause issues with some internet providers if they block some domains",
+        "description": "Use .torrent files instead of magnet links, this can cause issues with some internet provider if they block some domains",
         "default": false
       }
     }
