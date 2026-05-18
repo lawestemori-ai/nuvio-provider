@@ -14,7 +14,7 @@
     ],
     "url": "aHR0cHM6Ly9uZWtvYnQudG8vYXBpL3YxLw==",
     "icon": "https://nekobt.to/cdn/pfp/null/64",
-    "update": "https://exten.pages.dev/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/index.json",
     "code": "https://exten.pages.dev/nekobt.js"
   },
   {
@@ -30,7 +30,7 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "https://exten.pages.dev/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/index.json",
     "code": "https://exten.pages.dev/seadex.js"
   },
   {
@@ -46,7 +46,7 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "https://exten.pages.dev/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/index.json",
     "code": "https://exten.pages.dev/animetosho.js",
     "options": {
       "useTorrent": {
@@ -69,7 +69,7 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "https://exten.pages.dev/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/index.json",
     "code": "https://exten.pages.dev/animetosho-nzb.js"
   }
 ]
