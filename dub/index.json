@@ -12,7 +12,7 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/dub/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-provider/main/dub/index.json",
     "code": "https://exten.pages.dev/dub/seadex.js"
   },
   {
@@ -28,12 +28,12 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/dub/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-provider/main/dub/index.json",
     "code": "https://exten.pages.dev/dub/animetosho.js",
     "options": {
       "useTorrent": {
         "type": "boolean",
-        "description": "Use .torrent files instead of magnet links, this can cause issues with some internet providers if they block some domains",
+        "description": "Use .torrent files instead of magnet links, this can cause issues with some internet provider if they block some domains",
         "default": false
       }
     }
@@ -53,7 +53,7 @@
     ],
     "url": "aHR0cHM6Ly9uZWtvYnQudG8vYXBpL3YxLw==",
     "icon": "https://nekobt.to/cdn/pfp/null/64",
-    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-providers/main/dub/index.json",
+    "update": "https://raw.githubusercontent.com/lawestemori-ai/nuvio-provider/main/dub/index.json",
     "code": "https://exten.pages.dev/dub/nekobt.js"
   }
 ]
